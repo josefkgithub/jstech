@@ -14,8 +14,21 @@
     </script>
 </head>
 <body>
+<article>
 <p>Have a look at the console</p>
-
+<p>You can compile a template with a node module. After intstallation of handlebar on node you can:</p>
+<p><code>c:>handlebars post.handlebars - f post.hbs.js</code></p>
+<p>It looks like the nameing convention mytemplate.handlebars is important.</p>
+<p>In this case you will include only  post.hbs.js. This contains a function to insert your values and get back the html string.</p>
+<ul>Advantages:
+    <li>
+        Smaller handlebar library: handlebars.runtime-v2.0.0.js (20KB) instead of handlebars-v2.0.0.js (99KB)
+    </li>
+    <li>
+        No compilation time in production
+    </li>
+</ul>
+</article>
 
 </body>
 </html>

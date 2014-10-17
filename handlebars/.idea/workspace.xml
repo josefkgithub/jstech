@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="7" selection-start="802" selection-end="802" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="578">
+            <state line="6" column="17" selection-start="147" selection-end="167" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="578">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="index2.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="44" selection-start="452" selection-end="452" vertical-scroll-proportion="0.21201815" vertical-offset="0" max-vertical-offset="882">
+            <state line="24" column="109" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.46258503" vertical-offset="0" max-vertical-offset="882">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="post.hbs.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/post.hbs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+            <state line="13" column="6" selection-start="1092" selection-end="1092" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
               <folding />
             </state>
           </provider>
@@ -93,15 +93,15 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/post.hbs" />
-        <option value="$PROJECT_DIR$/post.hbs.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/post.hbs.js" />
         <option value="$PROJECT_DIR$/index2.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="1900" />
+    <option name="y" value="-17" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
@@ -233,7 +233,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
+    <frame x="1900" y="-17" width="1936" height="1066" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -300,21 +300,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="7" selection-start="802" selection-end="802" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="578">
+        <state line="6" column="17" selection-start="147" selection-end="167" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="578">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/post.hbs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="895">
+        <state line="13" column="6" selection-start="1092" selection-end="1092" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="44" selection-start="452" selection-end="452" vertical-scroll-proportion="0.21201815" vertical-offset="0" max-vertical-offset="882">
+        <state line="24" column="109" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.46258503" vertical-offset="0" max-vertical-offset="882">
           <folding />
         </state>
       </provider>
