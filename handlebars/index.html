@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Handlebars Test - The simplest case</title>
+    <script src="jquery-2.1.1.js"></script>
+    <script src="handlebars-v2.0.0.js"></script>
+    <script id="entry-template" type="text/x-handlebars-template">
+        <div class="entry">
+            <h1>{{title}}</h1>
+            <div class="body">
+                {{body}}
+            </div>
+        </div>
+    </script>
+    <script>
+        var source   = $("#entry-template").html();
+        var template = Handlebars.compile(source);
+        var context = {title: "My <p>New Post</p>", body: "This is my first post!"}
+        var html    = template(context);
+        console.log("html="+html);
+    </script>
+</head>
+<body>
+<p>Have a look at the console</p>
+<p>Shows how handlebars escapes html tags</p>
+
+</body>
+</html>

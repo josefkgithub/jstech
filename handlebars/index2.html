@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Handlebars Test - Using templates pre-compiled</title>
+    <script src="jquery-2.1.1.js"></script>
+    <!-- Only need the small runtime, as compilation is already done -->
+    <script src="handlebars.runtime-v2.0.0.js"></script>
+    <script src="post.hbs.js"></script>
+    <script>
+        var context = {title: "My <p>New Post</p>", body: "This is my first post!"}
+        var html    = Handlebars.templates.post(context);
+        console.log("html="+html);
+    </script>
+</head>
+<body>
+<p>Have a look at the console</p>
+
+
+</body>
+</html>
